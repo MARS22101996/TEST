@@ -1,0 +1,9 @@
+C:\Users\Mariia_Suvalova\Desktop\TestNuget\WebApplication1\src\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.deps.json
+C:\Users\Mariia_Suvalova\Desktop\TestNuget\WebApplication1\src\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.runtimeconfig.json
+C:\Users\Mariia_Suvalova\Desktop\TestNuget\WebApplication1\src\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Mariia_Suvalova\Desktop\TestNuget\WebApplication1\src\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.dll
+C:\Users\Mariia_Suvalova\Desktop\TestNuget\WebApplication1\src\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.pdb
+C:\Users\Mariia_Suvalova\Desktop\TestNuget\WebApplication1\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mariia_Suvalova\Desktop\TestNuget\WebApplication1\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Mariia_Suvalova\Desktop\TestNuget\WebApplication1\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.dll
+C:\Users\Mariia_Suvalova\Desktop\TestNuget\WebApplication1\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.pdb
