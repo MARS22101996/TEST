@@ -9910,10 +9910,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mariia_Suvalova\\Desktop\\TestNuget\\WebApplication1\\src\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Mariia_Suvalova\\Desktop\\test\\WebApplication1\\src\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Mariia_Suvalova\\Desktop\\TestNuget\\WebApplication1\\src\\WebApplication1\\WebApplication1.csproj",
-      "outputPath": "C:\\Users\\Mariia_Suvalova\\Desktop\\TestNuget\\WebApplication1\\src\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\Mariia_Suvalova\\Desktop\\test\\WebApplication1\\src\\WebApplication1\\WebApplication1.csproj",
+      "outputPath": "C:\\Users\\Mariia_Suvalova\\Desktop\\test\\WebApplication1\\src\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
